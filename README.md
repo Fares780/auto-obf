@@ -11,4 +11,4 @@
 and many more....
 
 
-Dm `....*6094` on Discord to buy the license.
+Dm `....*#6094` on Discord to buy the license.
