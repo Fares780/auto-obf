@@ -1,20 +1,20 @@
 {
-    "accuracy": 100,
+    "accuracy": 80,
     "autocatcher": true,
     "autolog": true,
     "blacklist": [],
     "blacklisted-channels": [
     ],
-    "bot-cmd-id": "1051898679180677200",
-    "bot-cmd-order": 1082658211968057436,
+    "bot-cmd-id": "",
+    "bot-cmd-order":,
     "bot_prefix": "-",
-    "bot_token": "MTA4MjY1NDcwMjYxOTA4Njk0OA.G3DLxA.hADrs7eA-kb6rfHnWPQfp0kEKcC6jNY_mI7haE",
-    "delay": 0.2,
-    "edit-delay": 0.7,
+    "bot_token": "",
+    "delay": 1.2,
+    "edit-delay": 1.3,
     "iv-mode": false,
     "iv-threshold": 60,
-    "key": "DMQWL-BUFPU-RULXB-YBXNH",
-    "log_id": "1082658212618186842",
+    "key": "",
+    "log_id": "",
     "log_level": "default",
     "low-suspicion mode": false,
     "market-sniper": false,
@@ -24,11 +24,6 @@
     "market-sniper_token": "",
     "max-duplicates": 4,
     "owner_id": [
-        493320149315747840,
-        756744791462641666,
-        781904715721474048,
-        756744791462641666,
-        1082653958742487071
     ],
     "password": "itachi@2021",
     "priority": [
@@ -36,14 +31,12 @@
         "unown"
     ],
     "priority-only-mode": false,
-    "restrict-duplicates": true,
-    "say_prefix": "!",
+    "restrict-duplicates": false,
+    "say_prefix": "//",
     "shiny-bot": "pokename",
     "shiny-mode": false,
-    "spam_id": "1082658214111359037",
+    "spam_id": "",
     "typo-percentage": 10,
-    "user_token": "MTA4MjY1Mzk1ODc0MjQ4NzA3MQ.Ge9uch.q9LNwAMxCyvoiF6yZdl0Q_hNTPhLSlVLJhYxb8",
-    "whitelisted-guilds": [
-        1082654542337949696
-    ]
+    "user_token": "",
+    "whitelisted-guilds": []
 }
